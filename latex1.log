@@ -1,0 +1,253 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.24)  27 JAN 2022 17:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./latex1.tex
+(latex1.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (C:\Desktop\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Desktop\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Desktop\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Desktop\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Desktop\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Desktop\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Desktop\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Desktop\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Desktop\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count191
+\l__pdf_internal_box=\box50
+) (latex1.aux)
+\openout1 = `latex1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(C:\Desktop\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count192
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count193
+\nofMParguments=\count194
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count195
+\MPscratchDim=\dimen142
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
+\everyMPtoPDFconversion=\toks18
+) (C:\Desktop\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Desktop\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+<Images//nit.jpg, id=1, 299.1175pt x 335.2525pt>
+File: Images//nit.jpg Graphic file (type jpg)
+<use Images//nit.jpg>
+Package pdftex.def Info: Images//nit.jpg  used on input line 14.
+(pdftex.def)             Requested size: 239.29431pt x 268.20236pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+[1
+
+{C:/Users/akmr3/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images//ni
+t.jpg>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 24.
+<Images//nebu.jpg, id=10, 122.6181pt x 81.6651pt>
+File: Images//nebu.jpg Graphic file (type jpg)
+<use Images//nebu.jpg>
+Package pdftex.def Info: Images//nebu.jpg  used on input line 28.
+(pdftex.def)             Requested size: 73.57141pt x 48.99942pt.
+<Images//type.jpg, id=11, 1300.86pt x 1105.12875pt>
+File: Images//type.jpg Graphic file (type jpg)
+<use Images//type.jpg>
+Package pdftex.def Info: Images//type.jpg  used on input line 40.
+(pdftex.def)             Requested size: 130.09361pt x 110.51935pt.
+
+Overfull \hbox (3.269pt too wide) in paragraph at lines 34--43
+\OT1/cmr/bx/n/12 Ultrasonic neb-u-liz-ers \OT1/cmr/m/n/12 make an aerosol via h
+igh-frequency vi-bra-tions. These
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2 <./Images//nebu.jpg>] [3 <./Images//type.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+[4]
+<Images//xray.jpg, id=23, 1352.05125pt x 985.43156pt>
+File: Images//xray.jpg Graphic file (type jpg)
+<use Images//xray.jpg>
+Package pdftex.def Info: Images//xray.jpg  used on input line 77.
+(pdftex.def)             Requested size: 135.21304pt x 98.54892pt.
+ [5
+
+ <./Images//xray.jpg>] [6] [7]
+<Images//hear.jpg, id=35, 466.543pt x 401.0985pt>
+File: Images//hear.jpg Graphic file (type jpg)
+<use Images//hear.jpg>
+Package pdftex.def Info: Images//hear.jpg  used on input line 118.
+(pdftex.def)             Requested size: 139.96397pt x 120.33047pt.
+<Images//hear1.jpg, id=36, 271.61475pt x 218.0145pt>
+File: Images//hear1.jpg Graphic file (type jpg)
+<use Images//hear1.jpg>
+Package pdftex.def Info: Images//hear1.jpg  used on input line 118.
+(pdftex.def)             Requested size: 162.9701pt x 130.8097pt.
+ [8
+
+ <./Images//hear.jpg> <./Images//hear1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+[9] [10]
+<Images//infu.jpg, id=46, 560.0925pt x 727.71875pt>
+File: Images//infu.jpg Graphic file (type jpg)
+<use Images//infu.jpg>
+Package pdftex.def Info: Images//infu.jpg  used on input line 166.
+(pdftex.def)             Requested size: 168.02904pt x 218.3173pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+[11
+
+ <./Images//infu.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
+
+ []
+
+
+Overfull \hbox (9.16946pt too wide) in paragraph at lines 189--190
+[]\OT1/cmr/m/n/12 Small-volume pumps in-fuse hor-mones, such as in-sulin, or ot
+her medicines,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+[12]
+Overfull \hbox (1.07094pt too wide) in paragraph at lines 223--224
+\OT1/cmr/m/n/12 An early stretcher, likely made of wicker over a frame, ap-pear
+s in a manuscript
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+
+ []
+
+<Images//stre.jpg, id=53, 1027.84pt x 770.88pt>
+File: Images//stre.jpg Graphic file (type jpg)
+<use Images//stre.jpg>
+Package pdftex.def Info: Images//stre.jpg  used on input line 228.
+(pdftex.def)             Requested size: 308.35437pt x 231.26578pt.
+<Images//str.jpg, id=54, 2102.85625pt x 1404.24625pt>
+File: Images//str.jpg Graphic file (type jpg)
+<use Images//str.jpg>
+Package pdftex.def Info: Images//str.jpg  used on input line 239.
+(pdftex.def)             Requested size: 210.29794pt x 140.43285pt.
+[13
+
+ <./Images//stre.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+[14 <./Images//str.jpg>] (latex1.aux) ) 
+Here is how much of TeX's memory you used:
+ 1362 strings out of 478659
+ 21686 string characters out of 2861934
+ 322431 words of memory out of 3000000
+ 19493 multiletter control sequences out of 15000+600000
+ 409601 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,8n,62p,747b,296s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\akmr3\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Desktop/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Desktop/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:
+/Desktop/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Desktop/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb><C:/Desktop/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+
+Output written on latex1.pdf (14 pages, 2631542 bytes).
+PDF statistics:
+ 89 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
